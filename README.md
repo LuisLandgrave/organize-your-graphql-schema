@@ -1,4 +1,4 @@
-# Organize your GraphQL Schema
+# How to (better) organize your GraphQL schema
 
 I've been recently working with GraphQL, both in Node.js and Java with Apollo and Spring Boot respectively and for the latter, a top-down approach of contract-first is supported, which has always been my preferred way to implement service contracts.
 
