@@ -1,0 +1,5 @@
+# Request wrapper for query: findAllUsers
+input FindAllUsersInput {
+    name: String
+    email: String
+}

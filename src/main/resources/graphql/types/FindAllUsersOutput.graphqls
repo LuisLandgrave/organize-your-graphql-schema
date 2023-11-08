@@ -1,0 +1,4 @@
+# Response wrapper for query: findAllUsers
+type FindAllUsersOutput {
+    users: [User]
+}

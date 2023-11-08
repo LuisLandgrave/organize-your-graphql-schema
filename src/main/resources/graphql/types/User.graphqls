@@ -1,0 +1,5 @@
+# Common type
+type User {
+    name: String
+    email: String
+}
